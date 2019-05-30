@@ -4,7 +4,7 @@ export class View extends Component {
   render() {
     return (
       <div>
-        This is View Component content.
+        <h2>This is View Component content.</h2>
       </div>
     )
   }
